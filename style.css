@@ -1,0 +1,14 @@
+table{
+  background: #4682B4; /* цвет фона, белый */
+  border: 1px solid gray; /* размер и цвет границы блока */
+  text-align: center;
+}
+.prokrutka {
+  width:300px; /* ширина нашего блока */
+  height:60px; /* высота нашего блока */
+  background: #fff; /* цвет фона, белый */
+  border: 1px solid gray; /* размер и цвет границы блока */
+  overflow-y: scroll; /* свойство для прокрутки по горизонтали. Автоматом, если   содержимое больше блока */
+}
+
+#input_b1, #input_b2, #input_b3 { background-color: RGB(249, 201, 16); /* Цвет фона под заголовком */ }
